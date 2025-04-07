@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brt-chris
 - 👀 I’m interested in SLAM, field robotics
 - 🌱 I’m currently learning tehcnical and project management
-- 📫 How to reach me: use our company slack!
+- 📫 How to reach me: use our company slack (chris.denn*****)
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I have a rabbit named Joey, a uromastyx lizard named Flumpo and a crested gecko named Frita!
 
